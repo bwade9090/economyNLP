@@ -1,2 +1,4 @@
 
 data/*.pkl
+data/new_w2v.wv*
+data/case4_20060901_*
